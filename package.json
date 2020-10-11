@@ -1,0 +1,9 @@
+{
+  "name": "TypeScriptBlockChain",
+  "version": "1.0.0",
+  "description": "TYPESCRIPT",
+  "main": "index.js",
+  "repository": "https://github.com/steven1103/TypeScriptBlockChain",
+  "author": "steven1103",
+  "license": "MIT"
+}
